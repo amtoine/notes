@@ -1,0 +1,4 @@
+- [ ] fix package list
+- [ ] gdb
+- [ ] lldb
+- [x] use "latest" tags and version tags + real versioning
